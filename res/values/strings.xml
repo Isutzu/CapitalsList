@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ * Author: Oscar Rodriguez
+ * File Name: strings.xml
+ * Date: 07/24/2013
+ * Objective: This xml file contains the strings used by our application
+ 
+ -->
+<resources>
+
+    <string name="app_name">CapitalsList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">Tap a state for displaying the capital </string>
+    <string name="title"> US States List</string>
+    <string name="us_map">US map</string>
+    <color name="azul">#c2dfff</color>
+	
+
+</resources>

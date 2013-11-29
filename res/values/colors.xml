@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ * Author: Oscar Rodriguez
+ * File Name: strings.xml
+ * Date: 07/24/2013
+ * Objective: This xml file contains the colors used by our application
+ -->
+<resources>
+
+    <color name="lightBlue">#c2dfff</color>
+    <color name="solidBlue">#357ec7</color>
+    
+</resources>
